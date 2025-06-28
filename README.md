@@ -33,10 +33,10 @@ Intelligent FAQ Chatbot using NLP and Cosine Similarity.
 This chatbot matches user questions with pre-defined FAQs using NLP preprocessing and TF-IDF + cosine similarity. It returns the most relevant answer in real-time.
 
 #### 🔗 Demo Video
-🎥 [Watch Here](https://drive.google.com/file/d/1NkYcQhD3j1VZ4IuHLGoNBcrADJ2K0DRY/view?usp=sharing)
+🎥 [Watch Here](https://drive.google.com/file/d/1Li214EB3vg6FDV-42YsrKBXjPKdc0Zau/view?usp=sharing)
 
 #### 🔗 LinkedIn Post  
-🔗 [View Post](https://www.linkedin.com/posts/lahari-kodali-0828822b3_codealpha-task2-faqchatbot-activity-7343244203666720769-wxqj?utm_source=share&utm_medium=member_desktop)
+🔗 [View Post](https://www.linkedin.com/posts/lahari-kodali-0828822b3_aiinternship-faqchatbot-codealpha-activity-7343240002241191936-Mo8A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtp5eIBhoKqVvYHZHwtQ-dbov8KpB9raLc)
 
 #### 🧰 Technologies Used
 - Python, NLTK / SpaCy
@@ -53,10 +53,10 @@ Real-time object detection and tracking using YOLOv8 and Deep SORT.
 This project uses YOLOv8 for object detection and Deep SORT for tracking across frames. Detected objects are assigned unique IDs and visualized in an output video.
 
 #### 🔗 Demo Video
-🎥 [Watch Here](https://drive.google.com/file/d/1RSqUvK6WyALh6j0a3sjMBxzrX_1KO42d/view?usp=sharing)
+🎥 [Watch Here](https://drive.google.com/file/d/1JOHoqL7GnhEIX6OwoVVmPtS7CGFokbs7/view?usp=sharing)
 
 #### 🔗 LinkedIn Post  
-🔗 [View Post](https://www.linkedin.com/posts/lahari-kodali-0828822b3_codealpha-task4-objectdetection-yolov8-activity-7343251049422735360-wVbb?utm_source=share&utm_medium=member_desktop)
+🔗 [View Post](https://www.linkedin.com/posts/lahari-kodali-0828822b3_aiinternship-codealpha-objectdetection-activity-7343248768214958080-6UoZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtp5eIBhoKqVvYHZHwtQ-dbov8KpB9raLc)
 
 #### 🧰 Technologies Used
 - Python, OpenCV
