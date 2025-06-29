@@ -52,6 +52,12 @@ The objective of this task is to detect and track objects in a video stream usin
 
 ---
 
+## Input video
+
+🎥 [Click to Watch Input video](https://drive.google.com/file/d/1Xtp999rEfWBjHyaEZge49IWjUAJQPJLY/view?usp=sharing)
+
+---
+
 ## 🔗 LinkedIn Post
 
 🔗 [View LinkedIn Post](https://www.linkedin.com/posts/lahari-kodali-0828822b3_aiinternship-codealpha-objectdetection-activity-7343248768214958080-6UoZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtp5eIBhoKqVvYHZHwtQ-dbov8KpB9raLc)
